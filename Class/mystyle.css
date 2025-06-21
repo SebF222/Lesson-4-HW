@@ -1,0 +1,18 @@
+li{
+    color: green
+}
+.my-class {
+    color: orangered
+}
+
+#my-id {
+    color: yellowgreen
+}
+
+#hover:hover{
+    color: pink
+}
+
+#active:active {
+    Color
+}
